@@ -25,3 +25,10 @@ ROC-AUC score and ROC Curve visualization
 Adjustable classification threshold for optimal results
 
 Sigmoid function plot for intuitive understanding
+<img width="793" height="670" alt="Screenshot 2025-09-26 120643" src="https://github.com/user-attachments/assets/0440f16c-9c94-428f-98a9-7de93f98bf29" />
+<img width="808" height="684" alt="Screenshot 2025-09-26 120654" src="https://github.com/user-attachments/assets/218e6dd8-3bf2-4582-a9c1-4609966d8900" />
+<img width="794" height="681" alt="Screenshot 2025-09-26 120708" src="https://github.com/user-attachments/assets/3f8d0840-09b4-4c73-86e7-8fb988fd8694" /> 
+<img width="1428" height="326" alt="Screenshot 2025-09-26 120724" src="https://github.com/user-attachments/assets/77ff5cc1-b400-4187-8ed3-6bdc83928b49" />
+
+
+
